@@ -15,7 +15,10 @@
 * *statsmodels*
 * *scikit-learn*
 * *Scipy*
+* *Keras*
+* *Tensorflow*
 * *Pickle*
 * *Matplotlib*
 * *Seaborn*
+
 # **Dataset**
